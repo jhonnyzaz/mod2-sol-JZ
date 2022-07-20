@@ -112,6 +112,17 @@ p {
 		width: 100%;
 	}
 
+@media (max-width: 767px) {
+	.col-xs-12 {
+		float:  left;
+		border: 1px solid green;
+	}
+
+	.col-xs-12 {
+		width: 100%;
+	}
+
+
 }
 
 }

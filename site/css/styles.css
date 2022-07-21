@@ -10,7 +10,7 @@ h1 {
 	text-align: right;
 	background-color: blueviolet;
 	float:  right;
-	position: relative;
+
 }
 
 p {
@@ -22,6 +22,7 @@ p {
 	margin-left: auto;
 	font-family: helvetica;
 	color: white;
+	position: relative;
 }
 
 .row {

@@ -71,7 +71,7 @@ p {
 		border: 1px solid blue;
 	}
 	.col-md-6 {
-		width: 50%;
+		width: 45%;
 	}
 
 @media (max-width: 767px) {

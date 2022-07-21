@@ -5,6 +5,11 @@ h1 {
 	margin-bottom: 15px;
 }
 
+.titles{
+	border: 1px solid black;
+	text-align: right;
+}
+
 p {
 	border: 1px solid black;
 	background-color: #A51F2A;
@@ -25,7 +30,6 @@ p {
 		float:  left;
 		border: 1px solid green;
 	}
-
 	.col-lg-4 {width: 33%;}
 }
 
@@ -42,7 +46,6 @@ p {
 		float:  left;
 		border: 1px solid darkred;
 	}
-
 	.col-xs-12 {width: 100%;}
 }
 

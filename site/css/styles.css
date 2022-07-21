@@ -10,6 +10,7 @@ h1 {
 	text-align: right;
 	background-color: blueviolet;
 	float:  right;
+	position: relative;
 }
 
 p {

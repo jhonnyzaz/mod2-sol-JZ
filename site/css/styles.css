@@ -20,7 +20,7 @@ p {
 	width: 100%;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 992px) {
 	.col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, 
 	.col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, 
 	.col-lg-11, .col-lg-12 {
@@ -71,7 +71,7 @@ p {
 		border: 1px solid blue;
 	}
 	.col-md-6 {
-		width: 45%;
+		width: 50%;
 	}
 
 @media (max-width: 767px) {

@@ -1,7 +1,7 @@
 <style>
 
-*, .row {
-	box-sizing: border-box !important;
+* {
+	box-sizing: border-box;
 }
 
 h1 {
